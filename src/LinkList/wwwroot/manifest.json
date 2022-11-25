@@ -1,0 +1,21 @@
+{
+  "name": "LinkList",
+  "short_name": "LinkList",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#000000",
+  "theme_color": "#087cd4",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
