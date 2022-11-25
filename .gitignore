@@ -8,7 +8,6 @@
 *.pdb
 *.dll.config
 *.cache
-**/ts-compiled/**/*.js
 *.map
 *.suo
 .sass-cache
@@ -39,7 +38,6 @@ TestResults/
 node_modules/
 .vs/
 .vscode/
-wwwroot/
 ###################
 # Web publish log #
 ###################
@@ -87,16 +85,6 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
-########
-# Yarn #
-########
-.yarn/*
-!.yarn/patches
-!.yarn/releases
-!.yarn/plugins
-!.yarn/sdks
-!.yarn/versions
-.pnp.*
 ##########
 # Docker #
 ##########
